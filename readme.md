@@ -1,4 +1,4 @@
-# Buscador de Livros - Google Books API
+# BookFinder-Java - Google Books API
 
 Aplicação CLI em Java para consulta de volumes através da API do Google Books. O projeto demonstra a integração de chamadas HTTP nativas do Java 21+, processamento de JSON com a biblioteca Gson e o mapeamento de dados estruturados utilizando Records e classes de domínio.
 
